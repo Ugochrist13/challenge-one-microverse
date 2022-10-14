@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+#header-image{
+    width: 10%;
+    display: block;
+}
